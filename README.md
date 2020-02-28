@@ -29,7 +29,7 @@
 
 
 ## CI / CD
-- [조셩윤님의 2019 Devfest Flutter CI / CD 발표자료](https://docs.google.com/presentation/d/1G_ZqZ6K6DboY_2y-YJQGcGiCTGiHto7dkaywcU30eqM/edit#slide=id.g78e53a5c7e_0_22)
+- [조성윤님의 2019 Devfest Flutter CI / CD 발표자료](https://docs.google.com/presentation/d/1G_ZqZ6K6DboY_2y-YJQGcGiCTGiHto7dkaywcU30eqM/edit#slide=id.g78e53a5c7e_0_22)
 
 # Error
 - [AnroidX 마이그레이션](https://software-creator.tistory.com/27)
