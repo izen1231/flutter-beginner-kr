@@ -32,7 +32,7 @@
 - [조성윤님의 2019 Devfest Flutter CI / CD 발표자료](https://docs.google.com/presentation/d/1G_ZqZ6K6DboY_2y-YJQGcGiCTGiHto7dkaywcU30eqM/edit#slide=id.g78e53a5c7e_0_22)
 
 # Error
-- [AnroidX 마이그레이션](https://software-creator.tistory.com/27)
+- [AndroidX 마이그레이션](https://software-creator.tistory.com/27)
 
 ## Web Build
 - [플러터 프로젝트 웹 빌드하기](https://flutter.dev/docs/get-started/web)
