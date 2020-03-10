@@ -12,6 +12,8 @@
 - [재즐보프](https://www.youtube.com/watch?v=Yt-DjG5b4iA&list=PLnIaYcDMsScxP2Nl8pEbmI__wkF0YVu0a)
 - [The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
+## Environment
+- [플러터 개발 환경 구축](https://velog.io/@ilcm96/setup-flutter-dev-env)
 
 ## UI
 - [LifeCycle](https://jaceshim.github.io/2019/01/28/flutter-study-stateful-widget-lifecycle/)
