@@ -39,6 +39,9 @@
 ## Web Build
 - [플러터 프로젝트 웹 빌드하기](https://flutter.dev/docs/get-started/web)
 
+## ETC
+- [Dart Web Crawling](https://medium.com/@larkbless/%EB%8B%A4%ED%8A%B8-dart-%EB%A1%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3df255a8b776)
+
 ## Community
 - [Flutter 공식 슬랙 커뮤니티](https://fluttercommunity.slack.com/join/shared_invite/enQtOTcyMzA1MTI4NzU5LWRhN2U4MDRlNGMwODBkMGYwY2RjNzM3ZGRmNDdiNjk1M2NjMmFlMWUzNThjNDcwYTNlMTFlNjQ1OTU1YjlkZjE)
 - [Flutter 카카오톡 오픈 채팅방](https://open.kakao.com/o/gsshoXJ)
