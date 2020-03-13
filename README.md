@@ -32,6 +32,7 @@
 
 ## CI / CD
 - [조성윤님의 2019 Devfest Flutter CI / CD 발표자료](https://docs.google.com/presentation/d/1G_ZqZ6K6DboY_2y-YJQGcGiCTGiHto7dkaywcU30eqM/edit#slide=id.g78e53a5c7e_0_22)
+- [Github Action CI / CD](https://levelup.gitconnected.com/ci-cd-for-flutter-apps-3a56e3fc6d8e)
 
 ## Error Solution
 - [AndroidX 마이그레이션](https://software-creator.tistory.com/27)
@@ -39,7 +40,7 @@
 ## Web Build
 - [플러터 프로젝트 웹 빌드하기](https://flutter.dev/docs/get-started/web)
 
-## ETC
+## Etc
 - [Dart Web Crawling](https://medium.com/@larkbless/%EB%8B%A4%ED%8A%B8-dart-%EB%A1%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3df255a8b776)
 
 ## Community
