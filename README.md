@@ -2,10 +2,10 @@
 * 플러터를 처음 입문하는 사람들과 기존 네이티브 개발자를 위한 레포입니다. 
 * Pull requests는 언제든지 환영합니다!
 
-## Docs
+## Site
 - [공식 플러터 사이트](https://flutter.dev/)
 - [한국어 번역 플러터 사이트](https://flutter-ko.dev/)
-
+- [플러터 kr 포털](http://flutters.kr/)
 ## Youtube
 - [더코딩파파](https://www.youtube.com/channel/UCUH2DSbsNUz2sW3kBNn4ibw)
 - [안드로이드 생존코딩](https://www.youtube.com/watch?v=lRbZsBvG9Ig&list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv)
