@@ -13,7 +13,8 @@
 - [The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 ## Environment
-- [플러터 개발 환경 구축](https://velog.io/@ilcm96/setup-flutter-dev-env)
+- [플러터 개발 환경 구축 (Android Studio)](https://velog.io/@ilcm96/setup-flutter-dev-env)
+- [플러터 개발 환경 구축 (VSCode)](https://skuld2000.tistory.com/70)
 
 ## UI
 - [LifeCycle](https://jaceshim.github.io/2019/01/28/flutter-study-stateful-widget-lifecycle/)
