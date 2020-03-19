@@ -42,6 +42,7 @@
 
 ## Error Solution
 - [AndroidX 마이그레이션](https://software-creator.tistory.com/27)
+- [Multidex 오류](https://282-ground.tistory.com/167)
 
 ## Web Build
 - [플러터 프로젝트 웹 빌드하기](https://flutter.dev/docs/get-started/web)
