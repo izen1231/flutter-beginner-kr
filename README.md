@@ -30,6 +30,11 @@
 - [Provider 패턴이란](https://here4you.tistory.com/221)
 - [MultiProvider](https://pub.dev/documentation/provider/latest/provider/MultiProvider-class.html)
 
+## Social Login
+- [Kakao](https://pub.dev/packages/kakao_flutter_sdk)
+- [Facebook](https://pub.dev/packages/flutter_facebook_login)
+- [Google](https://pub.dev/packages/google_sign_in)
+- [Apple](https://pub.dev/packages/apple_sign_in)
 
 ## CI / CD
 - [조성윤님의 2019 Devfest Flutter CI / CD 발표자료](https://docs.google.com/presentation/d/1G_ZqZ6K6DboY_2y-YJQGcGiCTGiHto7dkaywcU30eqM/edit#slide=id.g78e53a5c7e_0_22)
