@@ -46,6 +46,7 @@
 
 ## Web Build
 - [플러터 프로젝트 웹 빌드하기](https://flutter.dev/docs/get-started/web)
+- [Url Routing](https://medium.com/flutter/flutter-web-navigating-urls-using-named-routes-307e1b1e2050)
 
 ## Etc
 - [Dart Web Crawling](https://medium.com/@larkbless/%EB%8B%A4%ED%8A%B8-dart-%EB%A1%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3df255a8b776)
