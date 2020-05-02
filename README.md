@@ -36,6 +36,9 @@
 - [Google](https://pub.dev/packages/google_sign_in)
 - [Apple](https://pub.dev/packages/apple_sign_in)
 
+## ML
+- [tflite](https://github.com/shaqian/flutter_tflite)
+
 ## CI / CD
 - [조성윤님의 2019 Devfest Flutter CI / CD 발표자료](https://docs.google.com/presentation/d/1G_ZqZ6K6DboY_2y-YJQGcGiCTGiHto7dkaywcU30eqM/edit#slide=id.g78e53a5c7e_0_22)
 - [Github Action CI / CD](https://levelup.gitconnected.com/ci-cd-for-flutter-apps-3a56e3fc6d8e)
