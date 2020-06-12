@@ -57,3 +57,4 @@
 ## Community
 - [Flutter 공식 슬랙 커뮤니티](https://fluttercommunity.slack.com/join/shared_invite/enQtOTcyMzA1MTI4NzU5LWRhN2U4MDRlNGMwODBkMGYwY2RjNzM3ZGRmNDdiNjk1M2NjMmFlMWUzNThjNDcwYTNlMTFlNjQ1OTU1YjlkZjE)
 - [Flutter 카카오톡 오픈 채팅방](https://open.kakao.com/o/gsshoXJ)
+- [Flutter 페이스북 그룹](https://www.facebook.com/groups/flutterkorea)
