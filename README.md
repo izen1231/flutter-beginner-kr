@@ -36,6 +36,8 @@
 - [Google](https://pub.dev/packages/google_sign_in)
 - [Apple](https://pub.dev/packages/apple_sign_in)
 
+## AR
+- [AR Kit](https://pub.dev/packages/arkit_plugin)
 ## ML
 - [tflite](https://github.com/shaqian/flutter_tflite)
 
