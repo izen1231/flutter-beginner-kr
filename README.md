@@ -38,8 +38,12 @@
 
 ## AR
 - [AR Kit](https://pub.dev/packages/arkit_plugin)
+
 ## ML
 - [tflite](https://github.com/shaqian/flutter_tflite)
+
+## Package & Plugin Development
+- [Package Create](https://yoonjaepark.github.io/2019-04-28/flutter-package)
 
 ## CI / CD
 - [조성윤님의 2019 Devfest Flutter CI / CD 발표자료](https://docs.google.com/presentation/d/1G_ZqZ6K6DboY_2y-YJQGcGiCTGiHto7dkaywcU30eqM/edit#slide=id.g78e53a5c7e_0_22)
