@@ -33,6 +33,7 @@
 ## Social Login
 - [Kakao](https://pub.dev/packages/kakao_flutter_sdk)
 - [Facebook](https://pub.dev/packages/flutter_facebook_login)
+- [Naver](https://pub.dev/packages/flutter_naver_login)
 - [Google](https://pub.dev/packages/google_sign_in)
 - [Apple](https://pub.dev/packages/apple_sign_in)
 
