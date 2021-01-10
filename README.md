@@ -5,7 +5,7 @@
 ## Site
 - [공식 플러터 사이트](https://flutter.dev/)
 - [한국어 번역 플러터 사이트](https://flutter-ko.dev/)
-- [플러터 kr 포털](http://flutters.kr/)
+
 ## Youtube
 - [더코딩파파](https://www.youtube.com/channel/UCUH2DSbsNUz2sW3kBNn4ibw)
 - [안드로이드 생존코딩](https://www.youtube.com/watch?v=lRbZsBvG9Ig&list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv)
