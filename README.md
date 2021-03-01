@@ -20,6 +20,8 @@
 - [LifeCycle](https://jaceshim.github.io/2019/01/28/flutter-study-stateful-widget-lifecycle/)
 - [Row, Column 정렬하기](https://beomseok95.tistory.com/310)
 
+## getx
+- [getx](https://github.com/jonataslaw/getx/blob/master/README.ko-kr.md)
 
 ## BLOC Pattern
 - [Bloc Docs](https://bloclibrary.dev/#/gettingstarted)
