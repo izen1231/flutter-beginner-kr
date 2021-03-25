@@ -60,8 +60,12 @@
 - [플러터 프로젝트 웹 빌드하기](https://flutter.dev/docs/get-started/web)
 - [Url Routing](https://medium.com/flutter/flutter-web-navigating-urls-using-named-routes-307e1b1e2050)
 
+## Flutter 2.0 Null Safety Migration
+- [Null Safety Migration](https://velog.io/@kimbiyam/Flutter-2.0-%EA%B8%B0%EC%A1%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-null-safety-%EC%A0%81%EC%9A%A9)
+
 ## Etc
 - [Dart Web Crawling](https://medium.com/@larkbless/%EB%8B%A4%ED%8A%B8-dart-%EB%A1%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3df255a8b776)
+
 
 ## Community
 - [Flutter 공식 슬랙 커뮤니티](https://fluttercommunity.slack.com/join/shared_invite/enQtOTcyMzA1MTI4NzU5LWRhN2U4MDRlNGMwODBkMGYwY2RjNzM3ZGRmNDdiNjk1M2NjMmFlMWUzNThjNDcwYTNlMTFlNjQ1OTU1YjlkZjE)
