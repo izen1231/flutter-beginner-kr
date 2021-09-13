@@ -37,7 +37,7 @@
 - [Facebook](https://pub.dev/packages/flutter_facebook_login)
 - [Naver](https://pub.dev/packages/flutter_naver_login)
 - [Google](https://pub.dev/packages/google_sign_in)
-- [Apple](https://pub.dev/packages/apple_sign_in)
+- [Apple](https://pub.dev/packages/sign_in_with_apple)
 
 ## AR
 - [AR Kit](https://pub.dev/packages/arkit_plugin)
