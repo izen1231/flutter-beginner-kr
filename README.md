@@ -15,7 +15,7 @@
 ## Environment
 - [플러터 개발 환경 구축 (Android Studio)](https://velog.io/@ilcm96/setup-flutter-dev-env)
 - [플러터 개발 환경 구축 (VSCode)](https://skuld2000.tistory.com/70)
-
+- [fvm](https://velog.io/@kimbiyam/Flutter-fvmFlutter-Version-Management-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 ## UI
 - [LifeCycle](https://jaceshim.github.io/2019/01/28/flutter-study-stateful-widget-lifecycle/)
 - [Row, Column 정렬하기](https://beomseok95.tistory.com/310)
