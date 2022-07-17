@@ -69,6 +69,7 @@
 
 ## Community
 - [Flutter 공식 슬랙 커뮤니티](https://fluttercommunity.slack.com/join/shared_invite/zt-14w4zzw8j-MyD3OlwQr_PUAaShyyupGA#/shared-invite/email)
+- [Flutter Developer Korea 카카오톡 오픈 채팅방](https://open.kakao.com/o/gP04hwqe)
 - [Flutter 카카오톡 오픈 채팅방](https://open.kakao.com/o/gsshoXJ)
 - [Dart Developer Korea 카카오톡 오픈 채팅방](https://open.kakao.com/o/gYyufB6)
 - [Flutter 페이스북 그룹](https://www.facebook.com/groups/flutterkorea)
