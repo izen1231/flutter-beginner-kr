@@ -32,12 +32,16 @@
 - [Provider 패턴이란](https://here4you.tistory.com/221)
 - [MultiProvider](https://pub.dev/documentation/provider/latest/provider/MultiProvider-class.html)
 
+## riverpod
+- [riverpod 공식 페이지](https://riverpod.dev/ko)
+
 ## Social Login
 - [Kakao](https://pub.dev/packages/kakao_flutter_sdk)
 - [Facebook](https://pub.dev/packages/flutter_facebook_auth)
 - [Naver](https://pub.dev/packages/flutter_naver_login)
 - [Google](https://pub.dev/packages/google_sign_in)
 - [Apple](https://pub.dev/packages/sign_in_with_apple)
+- [Twitter](https://pub.dev/packages/twitter_login)
 
 ## AR
 - [AR Kit](https://pub.dev/packages/arkit_plugin)
